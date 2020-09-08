@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ProgramMaker/C++/test_project/header/a.h
+
+C:/ProgramMaker/C++/test_project/header/b.h
+
+C:/ProgramMaker/C++/test_project/main.cpp
+iostream
+-
+header/a.h
+C:/ProgramMaker/C++/test_project/header/a.h
+header/b.h
+C:/ProgramMaker/C++/test_project/header/b.h
+

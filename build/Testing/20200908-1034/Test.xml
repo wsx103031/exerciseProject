@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20200908-1034-Experimental"
+	Name="LAPTOP-I2DRGE26"
+	Generator="ctest-3.18.2"
+	CompilerName="C:/Program Files/LLVM/bin/g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-I2DRGE26"
+	OSRelease=" Personal"
+	OSVersion=" (Build 18362)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="14164"
+	TotalPhysicalMemory="8020"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2712"
+	>
+	<Testing>
+		<StartDateTime>Sep 08 19:18 [NON-UTF-8-BYTE-0xA2]Dx[NON-UTF-8-BYTE-0xA2]D_?D[NON-UTF-8-BYTE-0xA1]PCRE?!</StartDateTime>
+		<StartTestTime>1599563880</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 08 19:18 [NON-UTF-8-BYTE-0xA2]Dx[NON-UTF-8-BYTE-0xA2]D_?D[NON-UTF-8-BYTE-0xA1]PCRE?!</EndDateTime>
+		<EndTestTime>1599563880</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

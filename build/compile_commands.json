@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/ProgramMaker/C++/test_project/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\G__~1.EXE   -g -o CMakeFiles\\test_project.dir\\main.cpp.obj -c C:\\ProgramMaker\\C++\\test_project\\main.cpp",
+  "file": "C:/ProgramMaker/C++/test_project/main.cpp"
+},
+{
+  "directory": "C:/ProgramMaker/C++/test_project/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\G__~1.EXE   -g -o CMakeFiles\\test_project.dir\\source\\a.cpp.obj -c C:\\ProgramMaker\\C++\\test_project\\source\\a.cpp",
+  "file": "C:/ProgramMaker/C++/test_project/source/a.cpp"
+},
+{
+  "directory": "C:/ProgramMaker/C++/test_project/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\G__~1.EXE   -g -o CMakeFiles\\test_project.dir\\source\\b.cpp.obj -c C:\\ProgramMaker\\C++\\test_project\\source\\b.cpp",
+  "file": "C:/ProgramMaker/C++/test_project/source/b.cpp"
+}
+]
